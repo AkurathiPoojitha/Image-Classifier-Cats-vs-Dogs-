@@ -14,19 +14,6 @@ Pillow
 
 VS Code
 
-**📂 Project Structure**
-cats_vs_dogs/
-│
-├── dataset/
-│   └── train/
-│       ├── cats/
-│       └── dogs/
-│
-├── train.py
-├── predict.py
-├── cat_dog_model.pth
-└── test.jpg
-
 **📊 Dataset**
 
 The dataset consists of labeled images of cats and dogs downloaded from Kaggle.
